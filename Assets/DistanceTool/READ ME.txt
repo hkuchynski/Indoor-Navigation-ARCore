@@ -1,0 +1,9 @@
+Distance Tool version 1.0.0
+Created by Wes McDermott - the3dninja@me.com - the3dninja.com/blog
+
+The Distance Tool is a Unity Editor script that gives you the ability to measure objects in your scene. The Distance Tool also has the option to show a ratio between object scale in pixels based off a user-defined pixel-per-unit setting. This option can help you define proper texture resolution. For more information, watch the video walkthrough mentioned below. 
+
+How to use:
+From the main menu, go to GameObject drop down menu and from "The 3D Ninja" menu, select "Create Distance Tool."  
+
+You can watch a full video walkthrough at the following link. http://vimeo.com/the3dninja/distancetool. 

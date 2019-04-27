@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{93B92750-A075-54ED-91C9-7CBE1DEB24E0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleARCore/SDK/Scripts/ARCoreSessionConfig.cs">
+    <Files>
+      <File FileName="Assets/DistanceTool/DistanceTool.cs" Line="5" Column="3" />
+      <File FileName="Assets/DistanceTool/Editor/DistanceToolEditor.cs" Line="54" Column="73" />
+      <File FileName="Assets/Scripts/HelloARController.cs" Line="52" Column="72" />
+      <File FileName="Assets/GoogleARCore/SDK/Scripts/ARCoreSessionConfig.cs" Line="8" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

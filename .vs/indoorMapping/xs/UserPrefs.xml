@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{90E49C6D-0834-809A-9EF0-3F2BB781EDB0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HelloARController.cs">
+    <Files>
+      <File FileName="Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HelloARController.cs" Line="45" Column="77" />
+      <File FileName="Assets/Scripts/FollowTarget.cs" Line="36" Column="2" />
+      <File FileName="Assets/GoogleARCore/SDK/Scripts/ARCoreBackgroundRenderer.cs" Line="15" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
