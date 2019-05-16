@@ -3,7 +3,7 @@
  >This is an Android navigation app built in Unity3D using Google ARCore.
  
  ## Features:
- * user of ARCore features: Environmental Understanding, Motion Tracking, Light Estimation
+ * use of ARCore features: Environmental Understanding, Motion Tracking, Light Estimation
  * real time localization
  * real time navigation to a target point
  * speech recognition
